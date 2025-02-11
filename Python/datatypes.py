@@ -1,10 +1,12 @@
+# primary datatypes 
+
 # integer -> 10,0,-8789,4551
 
 # float(floating point number) -> 145.26, 0.254, -1545.652, 10.00
 
 # string -> '', "" 
     # set of characters 
-    # "jay", 'india', 'abc@123', " "
+    # "jay", 'india', 'abc @ 123', " "
 
 # boolean -> True, False 
 
