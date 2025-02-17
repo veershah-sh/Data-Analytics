@@ -1,0 +1,12 @@
+1. Check if a list contains an element
+2. Write a program to reverse a list in Python.
+3. Python program to append an element to a list.
+4. Write a Python program to clone or copy a list.
+5. Write a Python program to print a specified list after removing the 0th, 4th and 5th elements.
+6. Write a Python program to access the index of a list.
+7. Write a Python program to find the index of an item in a specified list
+8. Write a Python program to append a list to the second list.
+9. Write a Python program to replace the last element in a list with another list.
+10. Write a Python program to extend a list without appending.
+Sample data: [10, 20, 30][40, 50, 60]
+Expected output : [40, 50, 60, 10, 20, 30]
