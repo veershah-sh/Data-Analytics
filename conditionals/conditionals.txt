@@ -1,0 +1,22 @@
+if -> 1 condition only
+    if num is even 
+
+if...else -> 2 conditions 
+   if num is even
+   else odd
+
+elif -> more than 2 conditions
+    if num is +ve
+    elif num is -ve
+    else 0
+
+nested if, if...else ladder -> condition in condition
+
+
+after python v3.10
+in python
+match..case
+
+
+other languages
+switch...case
