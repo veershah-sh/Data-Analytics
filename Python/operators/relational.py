@@ -16,20 +16,21 @@
             -> if a is equals to b
 """
 
-a = 10
+a = 100
 b = 100
 
-print(a==b)
-print(a!=b)
+# print(a==b)
+# print(a!=b)
+
+print(a>b)
+print(a>=b)
+
+print(a<b)
+print(a<=b)
 
 
 
-
-
-
-
-
-
+# extra example
 # field = "None"
 # None = null
 
