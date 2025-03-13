@@ -56,8 +56,20 @@ Types of Operators:
         -> c1 or c2 -> false
         -> !(c1 or c2) -> true
 
-5. Bitwise Operators
+5. Bitwise Operators -> works on binary level
+    & -> bitwise and
+    | -> bitwise or
+    ~ -> bitwise not
+    >> -> right shift
+    << -> left shift
+    ^ -> bitwise XOR
 
-6. Membership Operators
-7. Identity Operators
+
+6. Membership Operators (objects -> dictonary)
+    in -> 
+    not in -> 
+
+7. Identity Operators (object, array)
+    is -> 
+    not is -> 
 """
